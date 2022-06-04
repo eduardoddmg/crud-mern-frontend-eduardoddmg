@@ -1,0 +1,29 @@
+.containerHome
+{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: 5vh auto;
+}
+
+.buttonHome
+{
+    margin: 2vh auto;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.tableHome
+{
+    margin: 2vh 0;
+    width: 100%;
+}
+
+@media only screen and (max-width: 950px)
+{
+    .containerHome
+    {
+        width:90%;
+    }
+}
