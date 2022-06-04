@@ -41,7 +41,6 @@ const CriarComponent = () => {
     if (valid === 0) return false;
     else 
     {
-      console.log('cheguei aqui');
       setData([
         ...data,
         {

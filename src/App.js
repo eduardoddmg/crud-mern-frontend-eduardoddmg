@@ -7,7 +7,7 @@ function App() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:3001/")
+    fetch("https://crud-mern-backend-eduardoddmg.herokuapp.com/")
       .then((response) => response.json())
       .then((json) => setData(json));
   }, []);
