@@ -24,7 +24,7 @@ npm start
 * Validator
 
 ## Contato
-Email: eduardoddmg@gmail.com
+Email: eduardoddmg@gmail.com<br>
 Whatsapp: +55 (82) 996038479
 
 
