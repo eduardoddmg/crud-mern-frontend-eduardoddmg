@@ -11,7 +11,7 @@ Utilize os seguinte para executar
 npm start
 ```
 ## Preview
-* Preview
+<img src="preview.gif" alt="preview">
 ## Deploy
 <a href="https://mern-crud-eduardoddmg.netlify.app/" target="_blank">Clique aqui para acessar o deploy</a>
 ## Tecnologias utilizadas
